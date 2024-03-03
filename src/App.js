@@ -3,7 +3,9 @@ import DragDrop from "./DragDrop/index"
 
 function App() {
   return (
-    <DragDrop/>
+    <div >
+      <DragDrop/>
+    </div>
   );
 }
 
